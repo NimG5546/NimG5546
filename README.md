@@ -5,6 +5,8 @@
 - 😄 Pronouns: dr.Stoner D Weed
 - ⚡ Fun fact: I like to smoking weed while writing code
 
+![image](https://github.com/user-attachments/assets/df330b22-9e55-4579-82c3-928996c12d08)
+
 <!---
 NimG5546/NimG5546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
